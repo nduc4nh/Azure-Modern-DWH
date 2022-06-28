@@ -2,9 +2,11 @@
 
 # Azure Machine Learning services:
 
+Automate as well as Customizable with Python Script + Drag and Drop 
+
 Three features:
 
-* Automated Machine Learning:
+## Automated Machine Learning:
 
 - Help automatically build & deploy model
 
@@ -37,3 +39,8 @@ Two Class Classification
 
 Multicalss clastification
 
+### Advantages
+
+Compared to on-prem execution:
+
+* Fully end-to-end -> focus more on business consideration -> save time 
