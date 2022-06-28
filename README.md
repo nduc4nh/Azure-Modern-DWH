@@ -56,23 +56,3 @@ Microsoft Cognitive Services: provides AI solution for end user, AI package buil
 * Labs
 
 
-## Azure Machine Learning services:
-
-Three features:
-
-* Automated Machine Learning:
-
-- Help automatically build & deploy model
-
-- Data centric approach
-
-- Provides wide array of algorithms
-
-- Fine Tuning AI model solution
-
-- Integrated with Model explaination module
-
-- Based on AutoML	
-
-*Compete with IBM watson machine learning and model ops solution*
-
