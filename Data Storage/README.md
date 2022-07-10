@@ -31,3 +31,20 @@ Unstructure: more appropriate if they're in character delemiter separated files 
 ## Flow 
 
 raw -> lake -> Dataware house -> Analytics engines
+
+## Azure Synapse
+
+Dataware house solotuion integrated with `Azure Datalake` providing spark spool as well as SQL pools. User can fully manage the spool with deterministic cost estimation method.
+
+* Azure Pipeline
+
+* Azure Data Explorer
+
+* Azure distributed SQL
+
+* Azure sparkpook 
+
+* Azure Datalake table
+
+...
+
